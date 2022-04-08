@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "771979061886",
+    "project_id": "gdriveproject-346404",
+    "storage_bucket": "gdriveproject-346404.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771979061886:android:8fe0128b72aa225b28862f",
+        "android_client_info": {
+          "package_name": "com.travelproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771979061886-9dl9emntv3g39rhdho4soo7g0imm4iba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.travelproject",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "771979061886-8rddtp6s3iio1oh43toqh3sf4aiib7a8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCULbG59OF3m6iRpHBxvWHO7jWn903dxTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771979061886-8rddtp6s3iio1oh43toqh3sf4aiib7a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
