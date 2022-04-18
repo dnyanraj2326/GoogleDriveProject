@@ -71,15 +71,6 @@ const Details = ({navigation}) => {
     }
   };
 
-  // const signOut = async () => {
-  //   try {
-  //     await GoogleSignin.revokeAccess();
-  //     await GoogleSignin.signOut();
-  //     setUser({});
-  //   } catch (error) {
-  //     console.error(error);
-  //   }
-  // };
   return (
     <View style={{}}>
       <View style={{}}>
@@ -91,7 +82,7 @@ const Details = ({navigation}) => {
               textAlign: 'center',
               color: '#000',
             }}>
-            Sign In
+            Google Drive Sign In
           </Text>
         </View>
         <View style={{alignItems: 'center', justifyContent: 'center'}}>
